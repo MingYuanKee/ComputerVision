@@ -1,4 +1,4 @@
-# ComputerVision
+# Computer Vision
 
 This repository contains codes related to Computer Vision, covering the following assignments and projects:
 
