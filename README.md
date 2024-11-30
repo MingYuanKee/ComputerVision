@@ -14,4 +14,4 @@ The codes provided here are strictly not allowed to be used for any money-making
 
 # Credits
 
-These works were developed by my team and me: Kee Ming Yuan, Yip Chen Fei, Timothy Yeo Xiao Jing, Lehan Gong, Wong Seik Man.
+These works were developed by my team and I: Yip Chen Fei, Timothy Yeo Xiao Jing, Lehan Gong, Wong Seik Man, Kee Ming Yuan.
